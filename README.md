@@ -1,7 +1,7 @@
 # ImagemBitmap.java
 Repositório contem o conteúdo de matrizes referente ao Bitmap para compactação de imagem com uma matriz 16x16 inserindo os números da imagem do desenho.
 
-    Inicio
+   Inicio
 
     Insira linhas
     Insira colunas
@@ -12,8 +12,8 @@ Repositório contem o conteúdo de matrizes referente ao Bitmap para compactaç�
     executado 16 linhas e colunas
     Executado Bitmap
 
-    Fim
-    Fim por fim
+   Fim
+    
  
 (![matrizbitmap](https://user-images.githubusercontent.com/99374140/173200089-15d51b18-459b-40f8-8dca-5803a5afae68.png)
 

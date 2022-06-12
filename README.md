@@ -17,4 +17,4 @@ Repositório contem o conteúdo de matrizes referente ao Bitmap para compactaç�
  
 
 ![bitmaomatrizes](https://user-images.githubusercontent.com/99374140/173208945-c24668ef-adc2-4d9b-9807-d6b9abea7d8d.png)
-(![matrizbitmap](https://user-images.githubusercontent.com/99374140/173200089-15d51b18-459b-40f8-8dca-5803a5afae68.png)
+![matrizbitmap](https://user-images.githubusercontent.com/99374140/173200089-15d51b18-459b-40f8-8dca-5803a5afae68.png)

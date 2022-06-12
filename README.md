@@ -8,7 +8,7 @@ Repositório contem o conteúdo de matrizes referente ao Bitmap para compactaç�
     Insira matriz 16 por 16 
     Por controle de repetições no código
     Informe os elementos da "x " linha 
-    Adiciona +1
+    Adiciona +1 
     executado 16 linhas e colunas
     Executado Bitmap
 
